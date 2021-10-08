@@ -41,5 +41,10 @@ namespace ClassroomPalOnline.Controllers
         {
             Class1.StartsWithLower("TEST");
         }
+
+        public void TestMethodTwo()
+        {
+            Class1.StartsWithLower("TEST");
+        }
     }
 }
