@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassroomPalOnline", "Class
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPCoreLibrary", "CPCoreProjects\CPCore\CPCoreLibrary\CPCoreLibrary.csproj", "{542BF9F1-1459-4514-835C-F7A80662C249}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassroomPalOnlineApp", "ClassroomPalOnlineApp\ClassroomPalOnlineApp.csproj", "{D74DE124-0829-43B8-A5F0-2E047E6980A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{542BF9F1-1459-4514-835C-F7A80662C249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{542BF9F1-1459-4514-835C-F7A80662C249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{542BF9F1-1459-4514-835C-F7A80662C249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74DE124-0829-43B8-A5F0-2E047E6980A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74DE124-0829-43B8-A5F0-2E047E6980A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74DE124-0829-43B8-A5F0-2E047E6980A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74DE124-0829-43B8-A5F0-2E047E6980A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
