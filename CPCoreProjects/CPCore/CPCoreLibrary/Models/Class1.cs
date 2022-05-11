@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CPCoreLibrary
+namespace CP.Models
 {
     public static class Class1
     {
